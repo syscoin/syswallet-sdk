@@ -1,0 +1,16 @@
+{
+  "name": "syscoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bip39": "^3.0.3",
+    "syscoinjs-lib": "^1.0.95"
+  }
+}
